@@ -1,0 +1,46 @@
+@charset "utf-8";
+.menu_utama {
+	font-family: "Comic Sans MS", cursive;
+	font-size: 14px;
+	font-style: normal;
+	color: #000;
+	background-color: #39F;
+	border-top-width: thin;
+	border-bottom-width: thin;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #000;
+	border-bottom-color: #000;
+}
+.isi_menu {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 14px;
+	font-style: normal;
+	color: #090;
+	background-color: #CCC;
+	border-bottom-width: thin;
+	border-bottom-style: solid;
+	border-bottom-color: #000;
+}
+.garis_utama {
+	background-color: #CCC;
+	border-right-width: thin;
+	border-left-width: thin;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #000;
+	border-left-color: #000;
+}
+.garis_footer {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	background-color: #000;
+	border: thin solid #000;
+	color: #FFF;
+}
+body {
+	background-color: #FF9;
+}
+.isi_tabel {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 13px;
+}
